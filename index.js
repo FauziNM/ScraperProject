@@ -39,6 +39,4 @@ async function kusonimeSearch(query) {
     console.log(err);
   }
 }
-
-scrapeProject();
 export { kusonimeSearch }
